@@ -1,0 +1,20 @@
+body 
+{
+    text-align: center;
+	background-color: dodgerblue;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1
+{
+    
+    letter-spacing: 2px;
+    color: orange;
+    font-size: 60px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p
+{
+    line-height: 30px;
+    font-size: 22px;
+}
